@@ -1,0 +1,16 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "main": "Stack.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "node": "^22.3.0",
+    "ts-node": "^10.9.2"
+  }
+}
